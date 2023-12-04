@@ -132,4 +132,3 @@ def run_batch(df):
     df_responses = pd.DataFrame(responses)
 
     return df_responses
-chain = LLMChain(llm=chat_model_8, prompt=chat_prompt, verbose=False)

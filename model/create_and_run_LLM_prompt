@@ -15,8 +15,6 @@ from langchain.prompts.chat import ChatPromptTemplate, SystemMessagePromptTempla
 from langchain.chains import LLMChain
 from langchain.output_parsers import PydanticOutputParser
 
-# Custom library imports
-import utils_nt
 
 #Create LLM Instance
 chat_model_8= AzureChatOpenAI(deployment_name=gpt4_deployment_name, model=gpt4_model_name, temperature=0)

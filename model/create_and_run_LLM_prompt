@@ -22,7 +22,6 @@ import utils_nt
 chat_model_8= AzureChatOpenAI(deployment_name=gpt4_deployment_name, model=gpt4_model_name, temperature=0)
 
 #Create system message
-# Create system message
 sys_template = '''You are a social worker reviewing patient notes for social determinants of health. You are looking for patients facing housing instability or homelessness. Unless the note contains explicit evidence of housing instability, or it can be obviously inferred, you cannot assume a patient is experining housing instability.
 
 Here is some additional information on homelessness vs housing instability: People experiencing housing instability are not necessarily experiencing homelessness. Housing instability is often defined to include rent cost burden, risk of eviction, or frequent moves. Some people who are experiencing housing instability may access homeless services like meal programs, so it is important to distinguish whether an individual spent time in particular homeless service facilities or settings.
@@ -53,7 +52,6 @@ If the note mentions current housing insecurity, for example, 'patient has been 
 '''
 
 system_message_prompt = SystemMessagePromptTemplate.from_template(sys_template)
-
 
 #Output parser
 class HousingAnnotator(BaseModel):

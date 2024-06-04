@@ -39,5 +39,37 @@ GPT-4 version 0613 had a 32K token window, while GPT-3.5 Turbo version 0613 had 
 #### John Snow Labs NER Model
 The [John Snow Labs (JSL) NER model](https://nlp.johnsnowlabs.com/2023/06/13/ner_sdoh_en.html) is an SDoH model designed to detect and label SDoH entities within text data. The housing-specific label includes entities related to the conditions of the patient’s living spaces, for example: homeless, housing, small apartment, etc.
 
+### Citing our work
+# My Project
+
+## Overview
+A brief description of your project.
+
+## Citation
+
+<div>
+  <pre id="citation" style="background: #f6f8fa; border: 1px solid #e1e4e8; padding: 16px; border-radius: 6px;">
+@misc{guevara&chen2024large,
+      title={Large Language Models to Identify Social Determinants of Health in Electronic Health Records}, 
+      author={Marco Guevara and Shan Chen and Spencer Thomas and Tafadzwa L. Chaunzwa and Idalid Franco and Benjamin Kann and Shalini Moningi and Jack Qian and Madeleine Goldstein and Susan Harper and Hugo JWL Aerts and Guergana K. Savova and Raymond H. Mak and Danielle S. Bitterman},
+      year={2024},
+      eprint={npj Digit. Med. 7, 6},
+      doi={https://doi.org/10.1038/s41746-023-00970-0}
+}
+  </pre>
+  <button onclick="copyCitation()">Copy Citation</button>
+</div>
+
+<script>
+  function copyCitation() {
+    const citationText = document.getElementById('citation').innerText;
+    navigator.clipboard.writeText(citationText).then(function() {
+      alert('Citation copied to clipboard!');
+    }, function(err) {
+      console.error('Could not copy text: ', err);
+    });
+  }
+</script>
+
 For further information or queries, please contact: 
 - Alexandra Ralevski (alexandra.ralevski@gmail.com)

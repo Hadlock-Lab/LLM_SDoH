@@ -26,7 +26,7 @@ The data used in this study contains identifiable protected health information a
 
 <p align="center">
   <img width="1000" src="https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Figures/recall_precision_gpt35_housing_labels.png">
-  <figcaption>Comparison of recall and precision for Regex, GPT-3.5, GPT-4, and manual annotation in identifying notes with current or past housing instability, measured on 539 manually annotated notes.</figcaption>
+  <figcaption>Recall and precision metrics for GPT-3.5 for each housing label.</figcaption>
 </p>
 
 ### Models

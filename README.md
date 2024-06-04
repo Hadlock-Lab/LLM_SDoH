@@ -22,7 +22,7 @@ The data used in this study contains identifiable protected health information a
 <p align="left">
   <img width="500" src="https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Figures/recall_precision_gpt4_housing_labels.png" alt="Recall and precision metrics for GPT-4 for each housing label.">
   <figcaption>Recall and precision metrics for GPT-4 for each housing label.</figcaption>
-<p align="right">
+align="right">
   <img width="500" src="https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Figures/recall_precision_gpt35_housing_labels.png">
   <figcaption>Recall and precision metrics for GPT-3.5 for each housing label.</figcaption>
 </p>

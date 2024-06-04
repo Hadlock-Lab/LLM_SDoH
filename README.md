@@ -14,7 +14,10 @@ Social Determinants of Health (SDoH) such as housing insecurity are known to be 
 
 The data used in this study contains identifiable protected health information and therefore cannot be shared publicly. Investigators from Providence Health and Services and affiliates (PHSA) with an appropriate IRB approval can contact the authors directly regarding data access.
 
-![Alt text]([https://github.com/your-username/your-repository/raw/main/path-to-your-image.jpg](https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Figures/model_comparison_current_past_HI.png))
+<p align="center">
+  <img width="1000" src="https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Figures/model_comparison_current_past_HI.png" alt="Comparison of recall and precision for Regex, GPT-3.5, GPT-4, and manual annotation in identifying notes with current or past housing instability, measured on 539 manually annotated notes.">
+  <figcaption>Comparison of recall and precision for Regex, GPT-3.5, GPT-4, and manual annotation in identifying notes with current or past housing instability, measured on 539 manually annotated notes.</figcaption>
+</p>
 
 ### Models
 

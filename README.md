@@ -59,4 +59,6 @@ The data used in this study contains identifiable protected health information a
 ### Contact
 
 For further information or queries, please contact: 
-- Alexandra Ralevski (alexandra.ralevski@gmail.com)
+- Alexandra Ralevski (alexandraDOTralevskiATgmailDOTcom)
+- Michael Nossal (mikenossalATgmailDOTcom)
+- Nadaa Taiyab (nadaaDOTtaiyabATgmailDOTcom)

@@ -14,15 +14,11 @@ Social Determinants of Health (SDoH) such as housing insecurity are known to be 
 
 The data used in this study contains identifiable protected health information and therefore cannot be shared publicly. Investigators from Providence Health and Services and affiliates (PHSA) with an appropriate IRB approval can contact the authors directly regarding data access.
 
-<p align="center">
-  <img width="1000" src="https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Figures/model_comparison_current_past_HI.png"
-  <figcaption> Comparison of recall and precision for Regex, GPT-3.5, GPT-4, and manual annotation in identifying notes with current or past housing instability, measured on 539 manually annotated notes. </a>
-  </figcaption>
-</p>
+![Alt text]([https://github.com/your-username/your-repository/raw/main/path-to-your-image.jpg](https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Figures/model_comparison_current_past_HI.png))
 
 ### Models
 
-We compared the ability of GPT-3.5 and GPT-4 to identify instances of both current and past housing instability, as well as general housing status, from 25,217 notes from 795 pregnant women. Results were compared with manual annotation, a named entity recognition (NER) model, and regular expressions (RegEx).[The detailed annotation guidelines are here](https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Annotation%20Guidelines%20and%20LLM%20Prompt.pdf).
+We compared the ability of GPT-3.5 and GPT-4 to identify instances of both current and past housing instability, as well as general housing status, from 25,217 notes from 795 pregnant women. Results were compared with manual annotation, a named entity recognition (NER) model, and regular expressions (RegEx). [The detailed annotation guidelines are here](https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Annotation%20Guidelines%20and%20LLM%20Prompt.pdf).
 
 #### GPT-4 and GPT-3.5
 GPT-4 version 0613 had a 32K token window, while GPT-3.5 Turbo version 0613 had a 16K token window. Both GPT models were run using LangChain and OpenAI libraries. You can find the script for running final prompt in [GPT_prompt.py](https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/models/GPT_prompt.py).

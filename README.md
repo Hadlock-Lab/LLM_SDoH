@@ -4,7 +4,7 @@
 
 Social Determinants of Health (SDoH) such as housing insecurity are known to be intricately linked to patients’ health status. Large language models (LLMs) have shown potential for performing complex annotation tasks on unstructured clinical notes. Our work assessed the performance of LLMs (GPT-4 and GPT-3.5) in identifying temporal aspects of housing insecurity, and compared performance between original and de-identified notes.
 
-["The 2024 medRxiv pre-print of our work can be found here"](https://www.medrxiv.org/content/10.1101/2024.04.25.24306380v1)
+[The 2024 medRxiv pre-print of our work can be found here](https://www.medrxiv.org/content/10.1101/2024.04.25.24306380v1)
 
 ## Table of Contents
  * [Main Findings](#main-findings)

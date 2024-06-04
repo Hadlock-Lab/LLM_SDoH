@@ -15,17 +15,17 @@ Social Determinants of Health (SDoH) such as housing insecurity are known to be 
 The data used in this study contains identifiable protected health information and therefore cannot be shared publicly. Investigators from Providence Health and Services and affiliates (PHSA) with an appropriate IRB approval can contact the authors directly regarding data access.
 
 <p align="center">
-  <img width="1000" src="https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Figures/model_comparison_current_past_HI.png" alt="Comparison of recall and precision for Regex, GPT-3.5, GPT-4, and manual annotation in identifying notes with current or past housing instability, measured on 539 manually annotated notes.">
+  <img width="500" src="https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Figures/model_comparison_current_past_HI.png" alt="Comparison of recall and precision for Regex, GPT-3.5, GPT-4, and manual annotation in identifying notes with current or past housing instability, measured on 539 manually annotated notes.">
   <figcaption>Comparison of recall and precision for Regex, GPT-3.5, GPT-4, and manual annotation in identifying notes with current or past housing instability, measured on 539 manually annotated notes.</figcaption>
 </p>
 
 <p align="center">
-  <img width="1000" src="https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Figures/recall_precision_gpt4_housing_labels.png" alt="Recall and precision metrics for GPT-4 for each housing label.">
+  <img width="500" src="https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Figures/recall_precision_gpt4_housing_labels.png" alt="Recall and precision metrics for GPT-4 for each housing label.">
   <figcaption>Recall and precision metrics for GPT-4 for each housing label.</figcaption>
 </p>
 
 <p align="center">
-  <img width="1000" src="https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Figures/recall_precision_gpt35_housing_labels.png">
+  <img width="500" src="https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Figures/recall_precision_gpt35_housing_labels.png">
   <figcaption>Recall and precision metrics for GPT-3.5 for each housing label.</figcaption>
 </p>
 

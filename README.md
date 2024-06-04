@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository contains the code for the paper ["Using Large Language Models to Annotate Complex Cases of Social Determinants of Health in Longitudinal Clinical Records"](https://www.medrxiv.org/content/10.1101/2024.04.25.24306380v1), currently available in medRxiv (2024). 
-
 Social Determinants of Health (SDoH) such as housing insecurity are known to be intricately linked to patients’ health status. Large language models (LLMs) have shown potential for performing complex annotation tasks on unstructured clinical notes. 
+
+2024 medRxiv pre-print: ["Using Large Language Models to Annotate Complex Cases of Social Determinants of Health in Longitudinal Clinical Records"](https://www.medrxiv.org/content/10.1101/2024.04.25.24306380v1).
 
 ### Main Findings
 

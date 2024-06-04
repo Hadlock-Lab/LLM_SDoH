@@ -19,12 +19,10 @@ The data used in this study contains identifiable protected health information a
   <figcaption>Comparison of recall and precision for Regex, GPT-3.5, GPT-4, and manual annotation in identifying notes with current or past housing instability, measured on 539 manually annotated notes.</figcaption>
 </p>
 
-<p align="center">
+<p align="left">
   <img width="500" src="https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Figures/recall_precision_gpt4_housing_labels.png" alt="Recall and precision metrics for GPT-4 for each housing label.">
   <figcaption>Recall and precision metrics for GPT-4 for each housing label.</figcaption>
-</p>
-
-<p align="center">
+<p align="right">
   <img width="500" src="https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Figures/recall_precision_gpt35_housing_labels.png">
   <figcaption>Recall and precision metrics for GPT-3.5 for each housing label.</figcaption>
 </p>

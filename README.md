@@ -27,6 +27,15 @@ The data used in this study contains identifiable protected health information a
   <figcaption>Recall and precision metrics for GPT-4 and GPT-3.5 for each housing label.</figcaption>
 </p>
 
+<p align="center">
+  <img width="500" src="https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Figures/deid_housing_noted.png" alt="Comparison of recall and precision for Regex, GPT-3.5, GPT-4, and manual annotation in identifying notes with current or past housing instability, measured on 539 manually annotated notes.">
+  <img width="500" src="https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Figures/deid_current_past.png" alt="Description of the second image">
+</p>
+<p align="center">
+  <figcaption>Comparison of GPT-4 performance in identifying general housing status or current and past housing instability from three different versions of the same set of 539 notes. Notes were either complete (original) patient notes, completely de-identified notes, or de-identified notes with no date shift.
+</figcaption>
+</p>
+
 ### Models
 
 We compared the ability of GPT-3.5 and GPT-4 to identify instances of both current and past housing instability, as well as general housing status, from 25,217 notes from 795 pregnant women. Results were compared with manual annotation, a named entity recognition (NER) model, and regular expressions (RegEx). [The detailed annotation guidelines are here](https://github.com/Hadlock-Lab/LLM_SDoH/blob/main/Annotation%20Guidelines%20and%20LLM%20Prompt.pdf).

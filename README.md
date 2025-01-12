@@ -55,10 +55,3 @@ The [John Snow Labs (JSL) NER model](https://nlp.johnsnowlabs.com/2023/06/13/ner
 
 ### Data Availability
 The data used in this study contains identifiable protected health information and therefore cannot be shared publicly. Investigators from Providence Health and Services and affiliates (PHSA) with an appropriate IRB approval can contact the authors directly regarding data access.
-
-### Contact
-
-For further information or queries, please contact: 
-- Alexandra Ralevski
-- Michael Nossal (mikenossalATgmailDOTcom)
-- Nadaa Taiyab (nadaaDOTtaiyabATgmailDOTcom)
